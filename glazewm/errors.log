@@ -1,0 +1,24 @@
+[2m2024-10-18T20:25:03.599565Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-18T22:18:33.758095Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-18T22:18:45.149480Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-19T07:19:09.620793Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2024-10-19T07:21:32.921958Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2024-10-22T20:30:43.236506Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-22T21:44:26.935937Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-22T21:54:14.031904Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 112 column 5
+[2m2024-10-22T21:55:11.288764Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 112 column 5
+[2m2024-10-22T21:55:46.960178Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `match` at line 113 column 5
+[2m2024-10-22T21:56:21.778510Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `commands` at line 129 column 5
+[2m2024-10-22T21:59:26.055257Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unexpected argument found
+ at line 130 column 15
+[2m2024-10-22T22:01:58.768102Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 112 column 5
+[2m2024-10-22T22:04:42.743197Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m missing field `window_rules`
+[2m2024-10-22T22:04:52.754475Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 113 column 7
+[2m2024-11-02T18:07:22.846554Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-11-02T18:07:44.881400Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
